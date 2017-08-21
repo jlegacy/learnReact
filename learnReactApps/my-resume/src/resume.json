@@ -1,0 +1,236 @@
+{
+    "developerName": "Joseph Legacy",
+    "tagline": "UI Software Engineer",
+    "email": "jlegacy@suddenlink.net",
+    "phone": "252-917-1813",
+    "linkedin": "linkedin.com/in/joseph-legacy-932a6448/",
+    "github": "github.com/jlegacy/",
+    "education": [
+        {
+            "degree": "BS in Computer Science",
+            "meta": "Troy State University",
+            "time": "1991"
+        },
+        {
+            "degree": "MBA",
+            "meta": "Bellevue University",
+            "time": "2005"
+        }
+    ],
+    "interests": [
+        {
+            "interest": "Kayaking"
+        },
+        {
+            "interest": "Fixing Stuff"
+        },
+        {
+            "interest": "Cats"
+        }
+    ],
+    "summary": "Self motivated developer always looking for better ways to improve the User experience.  Currently using and implementing Angular and ReactJS UI frameworks in order to solve business requirements. Most recent UI experience has been at an Investment firm located in Raleigh RTP converting Legacy Green Screen applications into Angular UI Webpages.  Also implemented a custom dashboard using C3/D3.js",
+    "experiences": [
+        {
+            "jobTitle": "UI Software Engineer ",
+            "time": "Feb 2016 – Present",
+            "company": "TekSystems - Fidelity Investments @ RTP (Contract)",
+            "detail": "Was hired as a UI Software Engineer to work on a team of software developers charged with creating new UI experiences for internal Fidelity customers.  Much of the work centers around modernizing existing main frame green screen applications.  Main technologies used: Angular, Angular2, C3/D3.js, SlickGrid, NPM, Bootstrap, ReactJS, HTML5, Client Side PDF, Javascript, Typescript, and Jasmine",
+            "skills": [
+                {
+                    "skill": "Successfully created a dashboard using Angular and C3/D3.js.  Also utilized client-side PDF printing."
+                },
+                {
+                    "skill": "Successfully created an Angular UI which replaced an existing main-frame green screen application."
+                },
+                {
+                    "skill": "Learned and created multiple personal Angular2 apps using both webpack and system.config."
+                },
+                {
+                    "skill": "Learned and created multiple personal ReactJS apps."
+                },
+                {
+                    "skill": "Used GIT for source code changes"
+                }
+            ]
+        },
+        {
+            "jobTitle": "UI Software Engineer ",
+            "time": "Nov 2015 – Feb 2016",
+            "company": "TekSystems - Cisco @ RTP (Contract)",
+            "detail": "Was hired as a UI Software Engineer to work on a team of software developers charged with creating a new “If This Then” based rules engine web app used internally by Cisco.  Main technologies used: Backbone, Grunt.js, Node.js, Docker, Vagrant, Browserify, Linux, D3.js, and Bootstrap",
+            "skills": [
+                {
+                    "skill": "Successfully created UI elements for an “If This Then” based rules engine web app used internally by Cisco."
+                },
+                {
+                    "skill": "Used Jasmine to unit test."
+                },
+                {
+                    "skill": "Other technologies used in this project were Grunt.js, Node.js, Docker, Vagrant, Handlebars, Browserify and Bootstrap."
+                },
+                {
+                    "skill": "Started work on a dashboard UI that uses Redhat Open Shift/ Kubernetes web APIs to provide a mechanism to manage and monitor Cisco Hardware Architectures."
+                }
+            ]
+        },
+        {
+            "jobTitle": "Senior .Net UI Developer",
+            "time": "Feb 2015 – Nov 2015",
+            "company": "Troy Group Inc - Southern Pines NC",
+            "detail": "Was hired as a UI Developer to work on a team of software developers charged with creating secure printing web apps. Main technologies used: Javascript, HTML, CSS, Morris charts, Handlebar Templates, .NET MVC 5, and Bootstrap",
+            "skills": [
+                {
+                    "skill": "Successfully created the UI for a web based QR Code tracking system."
+                },
+                {
+                    "skill": "Pass data to MVC5 controllers."
+                },
+                {
+                    "skill": "Created a UI front-end web dashboard using JavaScript “Morris” charts."
+                },
+                {
+                    "skill": "Created a JavaScript MVC framework from scratch for possible use on a Cordova Phone app."
+                },
+                {
+                    "skill": "Created the front-end for a “Rules Engine” using JavaScript and JQuery."
+                },
+                {
+                    "skill": "Communicated with a .NET backend using Ajax and JSON."
+                },
+                {
+                    "skill": "Contributor to open source project - JQuery Query Builder."
+                },
+                {
+                    "skill": "Used Git and Source Tree for source code control."
+                }
+            ]
+        },
+        {
+            "jobTitle": "Software Developer",
+            "time": "May 2014 – Feb 2015",
+            "company": "CyberSharks - Greenville NC",
+            "detail": "Was hired as a Software Developer to develop any needed application(s) deemed necessary by any client. Main technologies used: Javascript, HTML, CSS, JQuery, C#, PHP, Python, SQL Server, .NET Restful/Soap Web Services, WPF, and Bootstrap",
+            "skills": [
+                {
+                    "skill": "Care First - Created an Emergency Management Transport(EMT) mobile “Surface Tablet” application for CareFirst used for transporting patients. Developed WCF SOAP web services to enable the client Surface app to send data to/from the base app. Uses C#, WPF, WCF Soap Web Services, and SQL Server"
+                },
+                {
+                    "skill": "Carolina Benefits Specialists - Using JavaScript and JQuery, created a new app to replace an aging “Maximizer” application that keeps track of business contacts with specific insurance information. The back end uses WCF C# restful web services with SQL tables"
+                },
+                {
+                    "skill": "Gander Mtn - Upgraded 30 Gander Mtn Intranet PHP 4.0 applications to PHP 5.0. Changes involved testing and rewriting deprecated code in both PHP and Python programs."
+                }
+            ]
+        },
+        {
+            "jobTitle": "AS400 Developer/Business Analyst",
+            "time": "Aug 2013 – Sep 2014",
+            "company": "Nacco Material Handling Group - Greenville NC",
+            "detail": "Was hired as a Software Developer to develop/maintain any needed application(s) deemed necessary. Main technologies used: .Net VB, Java, C#, .NET Soap Web Services, DB2, AS400 CL/RPG, and Bootstrap",
+            "skills": [
+                {
+                    "skill": "Created  SOAP web services against DB2 using  Java, Eclipse,  and Apache Axis2"
+                },
+                {
+                    "skill": "Used Ant to build .aar files for deployment to Apache Axis server."
+                },
+                {
+                    "skill": "Developed .Net C# programs to consume  SOAP web services"
+                },
+                {
+                    "skill": "Developed .Net VB programs to consume  SOAP web services"
+                },
+                {
+                    "skill": "Maintained existing Legacy COBOL and RPG III/IV programs"
+                }
+            ]
+        },
+        {
+            "jobTitle": "UI Front-End Developer",
+            "time": "Mar 2012 – Aug 2013",
+            "company": "Dancik International",
+            "detail": "Was hired as a UI Software Developer to enhance user experience. Main technologies used: JavaScript, HTML, CSS, JQuery, JSON, and Bootstrap",
+            "skills": [
+                {
+                    "skill": "Deploy web applications to Jenkins Continuous Integration Server"
+                },
+                {
+                    "skill": "Created UNIX batch commands to create Apache Tomcat context files."
+                },
+                {
+                    "skill": "Using JavaScript, CSS, and JQuery created an I-Pad/Galaxy Tab mobile device web application to allow Floor Tile Distributors/Sellers to create Customer Selection Sheets.  Framework is based on a JavaScript MVC.  Logic calls backend restful web services using JSON.  Screens were created based on Photoshop designs."
+                },
+                {
+                    "skill": "Using Java Server Pages (JSP) created/modified the UI for a web based Reporting System which allows users to submit various Sales Reports to back-end processing using Java Server Pages Standard Tag Libraries (JSTL) and Java.  Using JavaScript, CSS, and JQuery created/modified Dancik's UI web based Order Management System giving the user additional front-end functionality. Used Subversion for branching and merging."
+                },
+                {
+                    "skill": "Used various JQuery plugins to give user better UI experience such as “Slimbox” and “Growler”."
+                }
+            ]
+        },
+        {
+            "jobTitle": "AS400 Sr. Developer/Technical Lead",
+            "time": "2006 – 2012",
+            "company": "MBM Food Distribution - Rocky Mount NC",
+            "detail": "Was hired as an AS400 Lansa developer to develop/maintain Visual Lansa, Lansa for Web, and Green Screen Lansa on AS400.  Main technologies used: Lansa, RPG, RPGLE, CLP, and C#",
+            "skills": [
+                {
+                    "skill": "Using .Net C#, created windows scheduling application that emails Chick-Fil-A truck delivery performance data."
+                },
+                {
+                    "skill": "Using .NET C#, created a windows scheduled application that ftps data to one of our largest food vendors."
+                },
+                {
+                    "skill": "Analyzed, programmed, and tested, a voice warehouse picking application that supports MBM’s core business using Lansa."
+                },
+                {
+                    "skill": "Using web services, Lansa Integrator, and Lansa WAMS, successfully maintained and enhanced a “Truck Tracker” web application that provides real time projected arrival times to Chick-Fil-A, Burger King, and other vendors."
+                },
+                {
+                    "skill": "Had the responsibility of upgrading and administering Lansa"
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Bootstrap Switch",
+            "link": "https://github.com/ovsleep/bootstrap-switch",
+            "description": " Angular2 Component to add a switch like input."
+        }
+    ],
+    "skills": [
+        {
+            "skill": "Angular",
+            "percentage": "95%"
+        },
+        {
+            "skill": "Angular2",
+            "percentage": "90%"
+        },
+        {
+            "skill": "ReactJS",
+            "percentage": "90%"
+        },
+        {
+            "skill": "JavaScript",
+            "percentage": "95%"
+        },
+        {
+            "skill": "NPM",
+            "percentage": "95%"
+        },
+        {
+            "skill": "HTML & CSS",
+            "percentage": "90%"
+        },
+        {
+            "skill": "Git",
+            "percentage": "95%"
+        },
+          {
+            "skill": "JSON",
+            "percentage": "95%"
+        }
+    ]
+}
