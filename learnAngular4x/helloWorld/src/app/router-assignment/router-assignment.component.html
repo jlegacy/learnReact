@@ -1,0 +1,4 @@
+<h1>Home Page</h1>
+<nav *ngFor="let x of listData">
+  <a [routerLink]="['/homepage', x.year, x.month]" [queryParams]="{ page: startPage }">{{x.year}}/{{x.month}}</a>
+</nav>
